@@ -8,7 +8,9 @@ Just try to play with it!
 
 ## flag
 `num` : the start number for collatz conjecture
+
 `print`: the flag for printing each value of collatz conjecture [true/false]
+
 `delay`: the number in millisecond of delay each value being printed
 
 ## example
